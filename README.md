@@ -36,7 +36,7 @@ This project is for learning Git team work, branch management, and conflict reso
 
 | ZhaoYichen  | 20242228   | Team Leader |
 
-|   |    | Member      |
+|  wangwen xi |20242210| Member      |
 
 |     |   | Member      |
 
